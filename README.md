@@ -1,4 +1,4 @@
-### Choreography-based SAGA Design Pattern with Hexagonal Architecture
+## Choreography-based SAGA Design Pattern with Hexagonal Architecture
 
 #### Overview & Detailed Explanation
 
