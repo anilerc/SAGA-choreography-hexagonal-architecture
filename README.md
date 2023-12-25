@@ -1,6 +1,6 @@
-## Choreography-based SAGA Pattern with Hexagonal Architecture 
-### implemented with Spring Boot and Apache Kafka
-
+## Choreography-based SAGA Design Pattern with Hexagonal Architecture 
+## implemented with Spring Boot and Apache Kafka
+---
 #### Overview & Detailed Explanation
 
 ![Successful flow](images/diagramme_1.png)
